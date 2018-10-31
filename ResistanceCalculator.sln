@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebResistanceCalculator", "WebResistanceCalculator\WebResistanceCalculator.csproj", "{BCF05623-8D3E-4E85-A851-151E6EFF2FFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebResistanceCalculator.Tests", "WebResistanceCalculator.Tests\WebResistanceCalculator.Tests.csproj", "{D6E16BBA-361A-4C69-8A17-D5F79ED57B10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OhmCalculator", "OhmCalculator\OhmCalculator.csproj", "{42999F73-3ED3-43E3-BA8C-B7CD0271DB95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF05623-8D3E-4E85-A851-151E6EFF2FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF05623-8D3E-4E85-A851-151E6EFF2FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF05623-8D3E-4E85-A851-151E6EFF2FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF05623-8D3E-4E85-A851-151E6EFF2FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E16BBA-361A-4C69-8A17-D5F79ED57B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E16BBA-361A-4C69-8A17-D5F79ED57B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E16BBA-361A-4C69-8A17-D5F79ED57B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E16BBA-361A-4C69-8A17-D5F79ED57B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42999F73-3ED3-43E3-BA8C-B7CD0271DB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42999F73-3ED3-43E3-BA8C-B7CD0271DB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42999F73-3ED3-43E3-BA8C-B7CD0271DB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42999F73-3ED3-43E3-BA8C-B7CD0271DB95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

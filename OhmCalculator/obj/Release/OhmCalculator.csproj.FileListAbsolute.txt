@@ -1,0 +1,4 @@
+C:\Users\Seju\Documents\Sejal\ResistanceCalculator\OhmCalculator\bin\Release\OhmCalculator.dll
+C:\Users\Seju\Documents\Sejal\ResistanceCalculator\OhmCalculator\bin\Release\OhmCalculator.pdb
+C:\Users\Seju\Documents\Sejal\ResistanceCalculator\OhmCalculator\obj\Release\OhmCalculator.dll
+C:\Users\Seju\Documents\Sejal\ResistanceCalculator\OhmCalculator\obj\Release\OhmCalculator.pdb
